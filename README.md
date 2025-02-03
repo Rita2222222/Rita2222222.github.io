@@ -11,7 +11,7 @@
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-HXV46Z07B0');
+  gtag('config', 'G-HXV46Z07B0', { cookie_flags: 'SameSite=None; Secure' });
 </script>
 </head>
 <body>
